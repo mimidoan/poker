@@ -1,0 +1,21 @@
+{
+  "name": "mark43poker",
+  "version": "1.0.0",
+  "description": "3 card poker!",
+  "main": "poker.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "poker-evaluator": "^0.3.1",
+    "pokersolver": "^2.1.2",
+    "readline-sync": "^1.4.7"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "mimi doan",
+  "license": "ISC"
+}
